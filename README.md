@@ -15,11 +15,11 @@ pip install -r requirements.txt
 
 ## Run
 ```
-python main.py &
+python notice_time_limit.py &
 ```
 
 ## Stop
 ```
 # if you are running in background
-pkill -f "python main.py"
+pkill -f "python notice_time_limit.py"
 ```
