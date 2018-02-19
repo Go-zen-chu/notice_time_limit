@@ -17,3 +17,9 @@ pip install -r requirements.txt
 ```
 python main.py &
 ```
+
+## Stop
+```
+# if you are running in background
+pkill -f "python main.py"
+```
