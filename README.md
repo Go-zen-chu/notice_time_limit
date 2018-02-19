@@ -15,7 +15,8 @@ pip install -r requirements.txt
 
 ## Run
 ```
-python notice_time_limit.py &
+# run even if you close your terminal
+nohup python notice_time_limit.py &
 ```
 
 ## Stop
